@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TIJ4-code/TIJ4-code.iml" filepath="$PROJECT_DIR$/../TIJ4-code/TIJ4-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th2/ex1/ex1.iml" filepath="$PROJECT_DIR$/th2/ex1/ex1.iml" group="th2" />
+      <module fileurl="file://$PROJECT_DIR$/th2/ex16/ex16.iml" filepath="$PROJECT_DIR$/th2/ex16/ex16.iml" group="th2" />
+      <module fileurl="file://$PROJECT_DIR$/th2/ex2/ex2.iml" filepath="$PROJECT_DIR$/th2/ex2/ex2.iml" group="th2" />
+      <module fileurl="file://$PROJECT_DIR$/th2/ex8/ex8.iml" filepath="$PROJECT_DIR$/th2/ex8/ex8.iml" group="th2" />
+      <module fileurl="file://$PROJECT_DIR$/th2/ex9/ex9.iml" filepath="$PROJECT_DIR$/th2/ex9/ex9.iml" group="th2" />
+    </modules>
+  </component>
+</project>
+
