@@ -26,6 +26,8 @@
       <module fileurl="file://$PROJECT_DIR$/th5/th5ex6/th5ex6.iml" filepath="$PROJECT_DIR$/th5/th5ex6/th5ex6.iml" group="th5" />
       <module fileurl="file://$PROJECT_DIR$/th5/th5ex7/th5ex7.iml" filepath="$PROJECT_DIR$/th5/th5ex7/th5ex7.iml" group="th5" />
       <module fileurl="file://$PROJECT_DIR$/th5/th5ex9/th5ex9.iml" filepath="$PROJECT_DIR$/th5/th5ex9/th5ex9.iml" group="th5" />
+      <module fileurl="file://$PROJECT_DIR$/th6/th6ex1/th6ex1.iml" filepath="$PROJECT_DIR$/th6/th6ex1/th6ex1.iml" group="th6" />
+      <module fileurl="file://$PROJECT_DIR$/th6/th6ex3/th6ex3.iml" filepath="$PROJECT_DIR$/th6/th6ex3/th6ex3.iml" group="th6" />
     </modules>
   </component>
 </project>
