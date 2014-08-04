@@ -1,26 +1,18 @@
-class Test {
-    static int i = 0;
-    private int x = i++;
-
-    public String toString() {
-        return "x == " + x;
-    }
-}
-
 class MyClass {
-    static final Test sf = new Test();
-    final Test f = new Test();
-
+    static int i = 0;
+    final int x = i++;
+    final static int z = i++;
 
     public String toString() {
-        return "static final: " + sf + "  final: " + f;
+        return "final: " + x + "  final static: " + z;
     }
 }
-
 
 public class th7ex18 {
     public static void main(String[] args) {
-        System.out.println(new MyClass());
-        System.out.println(new MyClass());
+        MyClass a = new MyClass();
+        System.out.println(a);
+        MyClass b = new MyClass();
+        System.out.println(b);
     }
 }
